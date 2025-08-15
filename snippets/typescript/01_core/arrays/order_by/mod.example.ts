@@ -1,4 +1,4 @@
-import {orderBy, orderByAsc,orderByDesc} from './index.ts'
+import {orderBy, orderByAsc,orderByDesc} from './mod.ts'
 
 const data = [{
   name: "Alice",
